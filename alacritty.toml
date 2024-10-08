@@ -4,7 +4,7 @@ import = ["~/.config/alacritty/themes/atom_one_light.toml"]
 # opacity = 0.9
 
 [font]
-size = 18.0
+size = 16.0
 
 [window.padding]
 x = 6
